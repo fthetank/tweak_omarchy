@@ -93,6 +93,7 @@ sudo pacman -S --noconfirm --needed vlc
 sudo pacman -S --noconfirm --needed shortwave
 yay -S --noconfirm --needed hypnotix-wayland
 yay -S --noconfirm --needed wlogout
+yay -S --noconfirm --needed hyprmon-bin
 sudo pacman -S --noconfirm --needed libreoffice-fresh
 sudo pacman -S --noconfirm --needed libreoffice-fresh-de
 sudo pacman -S --noconfirm --needed thunar
