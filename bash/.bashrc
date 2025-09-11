@@ -7,6 +7,8 @@ alias rmpacmanlock="sudo rm /var/lib/pacman/db.lck"
 #get fastest mirrors in your neighborhood
 #our experimental - best option for the moment
 alias mirror="sudo cp -f /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.bak && sudo reflector -c germany -l 20 -p https --save /etc/pacman.d/mirrorlist"
+alias ll="ls -la"
+alias ff="fastfetch"
 # Add your own exports, aliases, and functions here.
 #
 # Make an alias for invoking commands you use constantly

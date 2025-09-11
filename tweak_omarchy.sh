@@ -103,7 +103,7 @@ sudo pacman -S --noconfirm --needed file-roller
 sudo pacman -S --noconfirm --needed micro
 sudo pacman -S --noconfirm --needed nano
 
-# nautilus extension for minimal conviniency
+# nautilus extension for minimal conveniency
 
 yay -S --noconfirm --needed nautilus-open-any-terminal
 gsettings set com.github.stunkymonkey.nautilus-open-any-terminal terminal alacritty
@@ -111,7 +111,7 @@ gsettings set com.github.stunkymonkey.nautilus-open-any-terminal terminal alacri
 # further tools and software
 sudo pacman -S --noconfirm --needed nwg-look
 yay -S --noconfirm --needed brave-bin
-yay -S --noconfirm --needed joplin-bind
+yay -S --noconfirm --needed joplin-appimage
 sudo pacman -S --noconfirm --needed gimp
 
 # look and feel + eyecandy
